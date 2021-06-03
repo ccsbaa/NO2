@@ -2,7 +2,7 @@
 simpleCart({
   checkout: {
     type: "PayPal",
-    email: "you@yours.com"
+    email: "ccsbaa@gmail.com"
   }
 });
 
